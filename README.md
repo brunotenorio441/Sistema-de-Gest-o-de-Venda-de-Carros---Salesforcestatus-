@@ -80,20 +80,20 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 
 ## 🔗 Diagrama de Relacionamento
 
-![Schema](schema.png)
+![Schema](imagens/schema.png)
 
 ---
 
 ## 📸 Exemplos do Sistema
 
 ### 🚗 Carro cadastrado
-![Car](car.png)
+![Car](imagens/car.png)
 
 ### ❤️ Interesse do cliente
-![Interest](interest.png)
+![Interest](imagens/interest.png)
 
 ### 💰 Proposta de compra
-![Proposal](proposal.png)
+![Proposal](imagens/proposal.png)
 
 
 ---
